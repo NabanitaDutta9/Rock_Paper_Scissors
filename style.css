@@ -5,14 +5,14 @@ body{
 
 #opponent-choice{
     width: 240px;
-    height:240px;
+    height:160px;
     background-color:rgb(53, 6, 45);;
     margin-top: 10px;
 }
 
 #your-choice{
     width: 240px;
-    height: 240px;
+    height: 160px;
     background-color:rgb(65, 8, 55);;
     margin-top: 10px;
 }
